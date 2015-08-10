@@ -5,6 +5,6 @@
 	</head>
 	
 	<body>
-		<p>This is working on http://defalttest.azurewebsites.net/!</p>
+		<?php phpinfo(); ?>
 	</body>
 </html>
